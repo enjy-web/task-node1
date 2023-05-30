@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "fname": "engy",
+        "age": 30,
+        "city": "egypt"
+    },
+    {
+        "id": 3,
+        "fname": "asmaa",
+        "lname": "esmail",
+        "age": 35,
+        "city": "united state"
+    },
+    {
+        "id": 4,
+        "fname": "esraa",
+        "lname": "maged",
+        "age": 40,
+        "city": "mansoura"
+    },
+    {
+        "id": 7,
+        "fname": "ahmed",
+        "lname": "yasser",
+        "age": 25,
+        "city": "domyat"
+    },
+    {
+        "id": 8,
+        "fname": "ramadan",
+        "lname": "shaban",
+        "age": 38,
+        "city": "giza"
+    },
+    {
+        "id": 10,
+        "fname": "karem",
+        "lname": "karam",
+        "age": 28,
+        "city": "tokyo"
+    }
+]
